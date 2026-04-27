@@ -1,9 +1,21 @@
-- 👋 Hi, My name is Kaushal Kumar Shakya
-- 👀 I’m interested in Developement
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me - mail me - kaushalkumar297@gmail.com
+# Hi there 👋, I'm Kaushal Kumar Shakya
 
-<!---
-Kaushal297/Kaushal297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 💻 Passionate about building products and solving real-world problems through technology  
+- 🚀 Interested in software development, system design, and scalable applications  
+- 🤝 Open to collaborating on exciting projects, startups, and innovative ideas  
+- 🌱 Continuously learning and exploring new technologies  
+
+## Tech Interests
+- Full-Stack Development  
+- Mobile App Development  
+- Fintech Solutions  
+- Developer Tools  
+- AI & Automation  
+
+## Let's Connect
+- 📫 Email: kaushalkumar297@gmail.com  
+
+---
+
+*"Code is not just about solving problems — it's about creating possibilities."*

@@ -1,7 +1,6 @@
-- 👋 Hi, My name is Kaushal Kumar
-- 👀 I’m interested in Front-end Developement
-- 🌱 I’m currently learning React Framework - NextJS
-- 💞️ I’m looking to collaborate on anything related to frontend
+- 👋 Hi, My name is Kaushal Kumar Shakya
+- 👀 I’m interested in Developement
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - mail me - kaushalkumar297@gmail.com
 
 <!---

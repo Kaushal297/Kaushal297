@@ -1,21 +1,45 @@
-# Hi there 👋, I'm Kaushal Kumar Shakya
+# Hey, I'm Kaushal Kumar Shakya 👋
 
-## About Me
-- 💻 Passionate about building products and solving real-world problems through technology  
-- 🚀 Interested in software development, system design, and scalable applications  
-- 🤝 Open to collaborating on exciting projects, startups, and innovative ideas  
-- 🌱 Continuously learning and exploring new technologies  
+### Developer • Builder • Problem Solver
 
-## Tech Interests
-- Full-Stack Development  
-- Mobile App Development  
-- Fintech Solutions  
-- Developer Tools  
-- AI & Automation  
-
-## Let's Connect
-- 📫 Email: kaushalkumar297@gmail.com  
+I build software that solves practical problems — from scalable applications to developer-focused tools.  
+Passionate about creating impactful products, exploring new technologies, and turning ideas into reality.
 
 ---
 
-*"Code is not just about solving problems — it's about creating possibilities."*
+## 🚀 What I Work On
+- Full-Stack Web Development  
+- Mobile App Development  
+- System Design & Scalable Architectures  
+- Fintech & Product Engineering  
+- Automation & AI-driven Solutions  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, React Native, Next.js  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, PostgreSQL  
+**Tools:** Git, Docker, REST APIs  
+
+---
+
+## 🌱 Current Focus
+- Building real-world products with scalable systems  
+- Exploring passive-income SaaS opportunities  
+- Deepening expertise in mobile and backend engineering  
+
+---
+
+## 🤝 Open for Collaboration
+I enjoy working on ambitious projects, innovative startups, and developer tools.
+
+---
+
+## 📬 Contact
+- **Email:** kaushalkumar297@gmail.com  
+
+---
+
+> *Building technology that creates value, not just code that runs.*
